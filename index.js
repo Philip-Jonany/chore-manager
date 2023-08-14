@@ -22,7 +22,7 @@ const millisecondsInWeek = 1000 * 60 * 60 * 24 * 7;
 const textbox = document.querySelector('pre');
 const rotations = Math.floor(diff/millisecondsInWeek);
 
-let brothers = ["Boaz", "PJ", "Teddy", "Victor", "Derek", "Nic"];
+let brothers = ["Sam", "PJ", "Teddy", "Shouen", "Jeremy", "Abe"];
 // Space for formatting.
 let chores = ["Compost + recycling    ",
 "Dishwasher                   ",
